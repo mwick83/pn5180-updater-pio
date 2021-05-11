@@ -1,0 +1,7 @@
+#ifndef _FIRMWARE_H
+#define _FIRMWARE_H
+
+#define PN5180_FIRMWARE       (const uint8_t []) { /* PLACE BYTE ARRAY OF FIRMWARE HERE */ }
+#define PN5180_FIRMWARE_SIZE  sizeof(PN5180_FIRMWARE)
+
+#endif
